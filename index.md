@@ -6,8 +6,7 @@ title: 星合の空
 
 - Address: **Chongqing University of education - 1 chongjiao  Rd. - Chongqing, China**
 - Phone: **+86 18883614294**
-- E-mail:
-- **1220465848@qq.com**
+- E-mail: **1220465848@qq.com**
 - WeChat: **qiaozhijiao888**
 - QQ: **1220465848**
 - Blog: **<https://qiaozhijiao.github.io/qiaolingling.github.io/>**
