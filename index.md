@@ -12,7 +12,7 @@ title: 星合の空
 - QQ: **1220465848**
 - Blog: **<https://qiaozhijiao.github.io/qiaolingling.github.io/>**
 - resume and  An Intro to Git and GitHub for Beginners
-:**<https://qiaozhijiao.github.io/rusume-and-introduce.github.io/ and intr>**
+:**<https://qiaozhijiao.github.io/rusume-and-introduce.github.io/ >**
 
 ## Education
 
