@@ -1,10 +1,10 @@
 ---
-title: 2017-2018 ACM-ICPC, NEERC, Northern Subregional Contest
+title: RESUME
 categories: [ACM,题解]
 abbrlink: 64193
 date: 2017-11-23 20:53:31
 ---
-第一次练习团队配合。五小时三人共做出ABCIK五题。配合有待加强。 
+<!-- 第一次练习团队配合。五小时三人共做出ABCIK五题。配合有待加强。 
 # [Auxiliary Project](https://vjudge.net/problem/Gym-101612A)
 最开始是用DP做的。
 ```cpp
@@ -322,4 +322,4 @@ int main()
 		}
 	fout<<"Impossible";
 }
-```
+``` -->
