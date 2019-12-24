@@ -8,8 +8,6 @@ title: 星合の空
 - Phone: **+86 18883614294**
 - E-mail:
   - **1220465848@qq.com**
-<!-- - **wukan3@mail2.sysu.edu.cn**
-  - **im.wu.kan@gmail.com** -->
 - WeChat: **qiaozhijiao888**
 - QQ: **1220465848**
 - Blog: **<https://qiaozhijiao.github.io/qiaolingling.github.io/>**
