@@ -12,7 +12,7 @@ title: 星合の空
   - **im.wu.kan@gmail.com** -->
 - WeChat: **qiaozhijiao888**
 - QQ: **1220465848**
-- Blog: **<[](https://qiaozhijiao.github.io/qiaolingling.github.io/)>**
+- Blog: **<https://qiaozhijiao.github.io/qiaolingling.github.io/>**
 <!-- [](https://wu-kan.github.io) -->
 ## Education
 
