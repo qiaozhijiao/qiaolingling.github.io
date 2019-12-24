@@ -11,6 +11,7 @@ title: 星合の空
 - WeChat: **qiaozhijiao888**
 - QQ: **1220465848**
 - Blog: **<https://qiaozhijiao.github.io/qiaolingling.github.io/>**
+- resume:**<a href="./introduce.pdf">**
 
 ## Education
 
