@@ -7,12 +7,11 @@ title: 星合の空
 - Address: **Chongqing University of education - 1 chongjiao  Rd. - Chongqing, China**
 - Phone: **+86 18883614294**
 - E-mail:
-  - **1220465848@qq.com**
+- **1220465848@qq.com**
 - WeChat: **qiaozhijiao888**
 - QQ: **1220465848**
 - Blog: **<https://qiaozhijiao.github.io/qiaolingling.github.io/>**
-- resume and  An Intro to Git and GitHub for Beginners
-:**<https://qiaozhijiao.github.io/rusume-and-introduce.github.io/ >**
+- resume and  An Intro to Git and GitHub for Beginners:**<https://qiaozhijiao.github.io/rusume-and-introduce.github.io/ >**
 
 ## Education
 
