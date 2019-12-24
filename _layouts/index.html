@@ -4,16 +4,16 @@ layout: page
 {{ content }}
 <h2>Recent</h2>
 <ul>
-  {% for post in site.posts limit:2 %}
+  <!-- {% for post in site.posts limit:2 %} -->
   <li>
     <a href="./introduce.pdf">{{ post.title }}</a>, {{ post.date | date_to_string }}
   </li>
-  {% endfor %}
-  <li>
+  <!-- {% endfor %} -->
+ <!-- <li>
     <a href="/archive">
       All {{ site.posts.size }} posts...
     </a>
-  </li>
+  </li> -->
 </ul>
 <!-- <h2>Essay</h2>
 {% for tag in site.index.showtag %} -->
