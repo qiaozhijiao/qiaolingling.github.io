@@ -22,7 +22,7 @@ School of Data and Computer Science, Sun Yat-sen University, Guangzhou, Sept. 20
   - Principle of Supercomputer
   - Parallel and Distributed Computing
   - High Performance Computing
-<!-- 
+<!--
 ## Honor -->
 
 <!-- - **Top 0.05% in 11395**, [The 18th CCF Certified Software Professional](https://wu-kan.github.io/posts/acm/%E9%A2%98%E8%A7%A3/%E7%AC%AC%E5%8D%81%E5%85%AB%E6%AC%A1CCF%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E4%BB%B6%E8%83%BD%E5%8A%9B%E8%AE%A4%E8%AF%81), Dec. 2019
@@ -32,10 +32,10 @@ School of Data and Computer Science, Sun Yat-sen University, Guangzhou, Sept. 20
 - **Third Scholarship**, Oct. 2018
 - **First Prize**, China Collegiate Programming Contest, Guangdong Division, May 2018 -->
 
-## Project
+<!-- ## Project
 
 TBD
-
+ -->
 <!-- ## Skill
 
 - **C/C++**, Familiar
@@ -49,6 +49,7 @@ TBD
 - **Git**, Familiar
 - **VSCode**, Familiar
  -->
-## Leadership
+<!-- ## Leadership
 
 TBD
+ -->
