@@ -10,8 +10,9 @@ title: 星合の空
 - WeChat: **qiaozhijiao888**
 - QQ: **1220465848**
 - Blog: **<https://qiaozhijiao.github.io/qiaolingling.github.io/>**
-- resume:**<https://qiaozhijiao.github.io/rusume-and-introduce.github.io/ >**
- - An Intro to Git and GitHub for Beginners:**<https://medivh-zhuhongyu.github.io/group-1/ >**
+- Resume and An Intro to Git and GitHub for Beginners:
+- **<https://qiaozhijiao.github.io/rusume-and-introduce.github.io/ >**
+-Gitbook:**<https://medivh-zhuhongyu.github.io/group-1/ >**
 ## Education
 
 English, Chongqing University of educationy, Chongqing, Sept. 2016 - Jul. 2020(expected)
